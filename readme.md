@@ -8,7 +8,7 @@ created a container in docker images and generated a QR code.
 This is my QR Code:
 
 
-![QR CODE](./qr_codes/QRCode_20240715100800.png)
+![QR CODE](image.png))
 
 
 Adding Docker log:
